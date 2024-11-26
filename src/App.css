@@ -1,0 +1,13 @@
+.main {
+  width: 600px;
+  border: 1px solid beige;
+  min-height: 700px;
+  border-radius: 10px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}

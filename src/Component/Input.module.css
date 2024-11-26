@@ -1,0 +1,14 @@
+.Input {
+  padding: 10px;
+  width: 400px;
+  text-align: center;
+  height: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  width: 90%;
+}
+.Button {
+  background-color: rgb(12, 155, 12);
+  margin: 10px;
+  width: 100px;
+}
